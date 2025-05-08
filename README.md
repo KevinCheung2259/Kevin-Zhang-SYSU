@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cheung
 - 👀 I’m interested in AI Infra / LLM program project
 - 🌱 I’m currently learning in SYSU
-- 💞️ Welcome to visit my blog https://kevin-zhang-sysu.github.io/
+- 💞️ Welcome to visit my blog https://kevincheung2259.github.io/
 - 📫 How to reach me zhangy2259@gmail.com
 
 <!---
